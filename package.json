@@ -1,0 +1,33 @@
+{
+  "name": "gulp-lebab",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Selçuk Fatih Sevinç",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.x"
+  },
+  "dependencies": {
+      "gulp-util": "3.0.7",
+      "through2": "2.0.1",
+      "lebab": "2.6.1"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "gulp",
+    "lebab",
+    "ES5",
+    "ES6"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selcukfatihsevinc/gulp-lebab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/selcukfatihsevinc/gulp-lebab/issues"
+  },
+  "homepage": "https://github.com/selcukfatihsevinc/gulp-lebab"
+}
