@@ -38,7 +38,7 @@ module.exports = function (options) {
             this.push(file);
         } 
         catch (err) {
-            this.emit('error', new gutil.PluginError('gulp-lebab', err, {fileName: file.path, showProperties: false}));
+            this.emit('error', new gutil.PluginError('gulp-lebab', err, {fileName: file.path, showProperties: true, showStack: true}));
         }
 
         callback();
