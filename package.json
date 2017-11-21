@@ -1,16 +1,16 @@
 {
   "name": "gulp-lebab",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.x"
   },
   "dependencies": {
-      "gulp-util": "3.0.7",
-      "through2": "2.0.1",
-      "lebab": "^2.7.7"
+    "gulp-util": "3.0.7",
+    "through2": "2.0.1",
+    "lebab": "^2.7.7"
   },
   "devDependencies": {},
   "main": "index.js",
