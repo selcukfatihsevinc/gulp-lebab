@@ -10,7 +10,7 @@
   "dependencies": {
       "gulp-util": "3.0.7",
       "through2": "2.0.1",
-      "lebab": "2.6.1"
+      "lebab": "^2.7.7"
   },
   "devDependencies": {},
   "main": "index.js",
